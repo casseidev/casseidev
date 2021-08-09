@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://d1fdloi71mui9q.cloudfront.net/UOaWAFiZQQOUvDQkO1gR_m7IqkEhGFhv31b3P" alt="Anime Profile Picture by Noah CSS (Casseide)" width="320" /> 
+<img align="left" src="https://data.whicdn.com/images/344895685/original.gif" alt="Anime Profile Picture by Noah CSS (Casseide)" width="296" /> 
 
 ```csharp
 casseidev@github
