@@ -13,8 +13,8 @@ Location: Stockholm, SE
 Languages: C#, HTML & CSS
 Learning: Python, JavaScript
 Hobbies: Researching, Reading, Walking, Writing & Photography
-Commits: 0
-Stars: 0
+Commits: 4
+Stars: 1
 Discord: Casseide#5420
 ```
 <p align="left">
